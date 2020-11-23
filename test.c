@@ -1,5 +1,4 @@
-/* Name: Udit Bhati
-   Roll_Number: 2019281*/
+//Udit Bhati
 #include <unistd.h>
 #include <sys/syscall.h>
 #include <stdio.h>
